@@ -90,4 +90,4 @@ git push
 
 ## 6. Ура
 
-Вы на шаг ближе к победе. Посмотреть свой статус можно на странице [](https://hacktoberfest.digitalocean.com/profile).
+Вы на шаг ближе к победе. Посмотреть свой статус можно на странице [своего профиля](https://hacktoberfest.digitalocean.com/profile).
