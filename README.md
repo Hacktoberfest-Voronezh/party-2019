@@ -28,3 +28,11 @@
 - 14:00 выступление приглашенного спикера
 - 14:30 продолжение сессии разработки
 - 18:30 закрытие
+
+## Участники
+
+Эта секция будет пополняться
+
+| Участник | Фото | Информация | GitHub |
+| --- | --- | --- | --- |
+| Илья Казначеев | ![](/images/ilya-kaznacheev.jpg) | Организатор мероприятия, основатель SAP Community Voronezh, backend разработчик в [codersrank.io](http://codersrank.io) | [ilyakaznacheev](https://github.com/ilyakaznacheev) |
