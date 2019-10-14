@@ -16,17 +16,17 @@
 
 ## Code of Conduct
 
-Участвуя в мероприятии, вы подтверждаете, что согластны с условиями [Hacktoberfest Events Code of Conduct](https://do.co/hacktoberconduct).
+Участвуя в мероприятии, вы подтверждаете, что согласны с условиями [Hacktoberfest Events Code of Conduct](https://do.co/hacktoberconduct).
 
-Для того, чтобы сделать PR в репозиторий митапа, необходимо выполнить следующие шаги:
+Для того, чтобы присоединиться, необходимо выполнить следующие шаги:
 
 ## 0. Зарегистрироваться как участник на Hacktoberfest
 
-Перейдите на страницу [Hacktoberfest](https://hacktoberfest.digitalocean.com/) и зарегистрируйтесь как участник, нажав "START HACHING". Войдите, используя свой аккаунт GitHub. Если его еще нет, зарегистрируйте его на сайте [GitHub](https://github.com/join).
+Перейдите на страницу [Hacktoberfest](https://hacktoberfest.digitalocean.com/) и зарегистрируйтесь как участник, нажав "START HACKING". Войдите, используя свой аккаунт GitHub. Если его еще нет, зарегистрируйте его на сайте [GitHub](https://github.com/join).
 
 ## 1. Сделать форк репозитория
 
-Зайдите на страницу https://github.com/Hacktoberfest-Voronezh/party-2019 и нажмите кнопку "Fork" в правом верхнем углу. [Подробнее о том, как это сделать](https://guides.github.com/activities/forking/). 
+Зайдите на страницу https://github.com/Hacktoberfest-Voronezh/party-2019 и нажмите кнопку "Fork" в правом верхнем углу. [Подробнее о том, как это сделать](https://guides.github.com/activities/forking/).
 
 ## 2. Клонировать репозиторий на компьютер
 
