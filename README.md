@@ -67,3 +67,4 @@ _Станислав - работает в Toptal Core Team, учит на mkdev.
 | Игорь Моисеев | ![](/images/igor-moiseev.jpeg) | PHP developer | [imoisey](https://github.com/imoisey) |
 | Евгений Кофман | ![](/images/evgeni-kofman.jpg) | РНР developer | [e-repo](https://github.com/e-repo) |
 | Ким Фом | ![](/images/kim-fom.jpg) | Student and Developer at VSU  | [kimfom01](https://github.com/kimfom01) |
+| Михаил Горталов | ![](/images/fKnBD1yBu5wcrop.jpg) | РНР developer | [toyrik](https://github.com/toyrik) |
