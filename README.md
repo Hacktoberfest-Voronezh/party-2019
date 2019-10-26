@@ -61,3 +61,4 @@ _Станислав - работает в Toptal Core Team, учит на mkdev.
 | Станислав Мехоношин | ![](/images/stanislav-mekhonoshin.jpg) | Core Team Engineer, Scrum Master в [toptal.com](http://toptal.com) | [Mehonoshin](https://github.com/Mehonoshin) |
 | Александр Макаров | ![](/images/aleksandr-makarov.jpg) | Core developer, [Yii framework](https://www.yiiframework.com/) | [samdark](https://github.com/samdark) |
 | Евгений Кофман | ![](/images/evgeni-kofman.jpg) | РНР developer | [e-repo](https://github.com/e-repo) |
+| Ким Фом | ![](/images/kim-fom.jpg) | Student and Developer at VSU  | [kimfom01](https://github.com/kimfom01) |
