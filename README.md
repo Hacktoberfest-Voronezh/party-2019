@@ -60,7 +60,7 @@ _Станислав - работает в Toptal Core Team, учит на mkdev.
 | Илья Казначеев | ![](/images/ilya-kaznacheev.jpg) | Организатор мероприятия, основатель SAP Community Voronezh, backend разработчик в [codersrank.io](http://codersrank.io) | [ilyakaznacheev](https://github.com/ilyakaznacheev) |
 | Станислав Мехоношин | ![](/images/stanislav-mekhonoshin.jpg) | Core Team Engineer, Scrum Master в [toptal.com](http://toptal.com) | [Mehonoshin](https://github.com/Mehonoshin) |
 | Александр Макаров | ![](/images/aleksandr-makarov.jpg) | Core developer, [Yii framework](https://www.yiiframework.com/) | [samdark](https://github.com/samdark) |
-| Снвиланжи Силвамба | ![](/images/suwilanji-silwamba.jpg) | Student and Programmer at VSU , [Swizzy inc] [suwi-inc](https://github.com/suwi-inc) |
+| Снвиланжи Силвамба | ![](/images/suwilanji-silwamba.jpeg) | Student and Programmer at VSU , [Swizzy inc] [suwi-inc](https://github.com/suwi-inc) |
 | Максим Попов | ![](/images/maxim-popov.jpg) | Php developer | [maxomato](https://github.com/maxomato) |
 | Максим Гетман | ![](/images/max-getman.png) | Web developer (ASP.NET Core, Vue, React) | [maximangetman](https://github.com/maximangetman) |
 | Игорь Моисеев | ![](/images/igor-moiseev.jpeg) | PHP developer | [imoisey](https://github.com/imoisey) |
