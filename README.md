@@ -2,7 +2,7 @@
 
 Встреча для любителей Open source, программирования и просто хорошего настроения.
 
-Участвуем в [Hacktoberfest 2019](https://hacktoberfest.digitalocean.com/), слушаем интересные доклады, общаемся и хорошо проводим время. 
+Участвуем в [Hacktoberfest 2019](https://hacktoberfest.digitalocean.com/), слушаем интересные доклады, общаемся и хорошо проводим время.
 
 Попробуем отправить желанные 4 PR в open source проекты чтобы выиграть призы от Digitalocean и внести свой вклад в свободное ПО.
 
@@ -29,7 +29,7 @@
 - 11:15 подготовка к сессии разработки (настройка оборудования и т.п.)
 - 11:30 сессия разработки
 - 13:00 перерыв
-- 14:00 [Станислав Мехоношин: "Нужен ли вам opensource?"](#станислав-мехоношин-нужен-ли-вам-opensource) 
+- 14:00 [Станислав Мехоношин: "Нужен ли вам opensource?"](#станислав-мехоношин-нужен-ли-вам-opensource)
 - 14:30 продолжение сессии разработки
 - 18:30 закрытие
 
@@ -41,7 +41,7 @@ _Александр - инженер в шляпе, успевший пораб�
 
 > Расскажу про то, что такое OpenSource, чем открытые проекты лучше не открытых, какой смысл участвовать и как быть максимально полезным проекту.
 
-### Станислав Мехоношин: "Нужен ли вам opensource?" 
+### Станислав Мехоношин: "Нужен ли вам opensource?"
 
 _Станислав - работает в Toptal Core Team, учит на mkdev.me а в свободное постоянно работает над своими проектами._
 
@@ -60,8 +60,8 @@ _Станислав - работает в Toptal Core Team, учит на mkdev.
 | Илья Казначеев | ![](/images/ilya-kaznacheev.jpg) | Организатор мероприятия, основатель SAP Community Voronezh, backend разработчик в [codersrank.io](http://codersrank.io) | [ilyakaznacheev](https://github.com/ilyakaznacheev) |
 | Станислав Мехоношин | ![](/images/stanislav-mekhonoshin.jpg) | Core Team Engineer, Scrum Master в [toptal.com](http://toptal.com) | [Mehonoshin](https://github.com/Mehonoshin) |
 | Александр Макаров | ![](/images/aleksandr-makarov.jpg) | Core developer, [Yii framework](https://www.yiiframework.com/) | [samdark](https://github.com/samdark) |
+| Сувиланжи Силвамба | ![](/images/suwilanji-silwamba.jpeg) | Student and Programmer at VSU | [suwi-inc](https://github.com/suwi-inc) |
 | Лепехин Дмитрий | ![](/images/dmitry_lepekhin1.jpg) | Student of Voronezh State University, [Student VSU](http://www.vsu.ru/) | [DemitrixQ](https://github.com/DemitrixQ)|
-| Снвиланжи Силвамба | ![](/images/suwilanji-silwamba.jpeg) | Student and Programmer at VSU , [Swizzy inc] [suwi-inc](https://github.com/suwi-inc) |
 | Максим Попов | ![](/images/maxim-popov.jpg) | Php developer | [maxomato](https://github.com/maxomato) |
 | Максим Гетман | ![](/images/max-getman.png) | Web developer (ASP.NET Core, Vue, React) | [maximangetman](https://github.com/maximangetman) |
 | Игорь Моисеев | ![](/images/igor-moiseev.jpeg) | PHP developer | [imoisey](https://github.com/imoisey) |
