@@ -61,3 +61,10 @@ _Станислав - работает в Toptal Core Team, учит на mkdev.
 | Станислав Мехоношин | ![](/images/stanislav-mekhonoshin.jpg) | Core Team Engineer, Scrum Master в [toptal.com](http://toptal.com) | [Mehonoshin](https://github.com/Mehonoshin) |
 | Александр Макаров | ![](/images/aleksandr-makarov.jpg) | Core developer, [Yii framework](https://www.yiiframework.com/) | [samdark](https://github.com/samdark) |
 | Сувиланжи Силвамба | ![](/images/suwilanji-silwamba.jpeg) | Student and Programmer at VSU | [suwi-inc](https://github.com/suwi-inc) |
+| Лепехин Дмитрий | ![](/images/dmitry_lepekhin1.jpg) | Student of Voronezh State University, [Student VSU](http://www.vsu.ru/) | [DemitrixQ](https://github.com/DemitrixQ)|
+| Максим Попов | ![](/images/maxim-popov.jpg) | Php developer | [maxomato](https://github.com/maxomato) |
+| Максим Гетман | ![](/images/max-getman.png) | Web developer (ASP.NET Core, Vue, React) | [maximangetman](https://github.com/maximangetman) |
+| Игорь Моисеев | ![](/images/igor-moiseev.jpeg) | PHP developer | [imoisey](https://github.com/imoisey) |
+| Евгений Кофман | ![](/images/evgeni-kofman.jpg) | РНР developer | [e-repo](https://github.com/e-repo) |
+| Ким Фом | ![](/images/kim-fom.jpg) | Student and Developer at VSU  | [kimfom01](https://github.com/kimfom01) |
+| Михаил Горталов | ![](/images/fKnBD1yBu5wcrop.jpg) | РНР developer | [toyrik](https://github.com/toyrik) |
