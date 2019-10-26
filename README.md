@@ -60,3 +60,4 @@ _Станислав - работает в Toptal Core Team, учит на mkdev.
 | Илья Казначеев | ![](/images/ilya-kaznacheev.jpg) | Организатор мероприятия, основатель SAP Community Voronezh, backend разработчик в [codersrank.io](http://codersrank.io) | [ilyakaznacheev](https://github.com/ilyakaznacheev) |
 | Станислав Мехоношин | ![](/images/stanislav-mekhonoshin.jpg) | Core Team Engineer, Scrum Master в [toptal.com](http://toptal.com) | [Mehonoshin](https://github.com/Mehonoshin) |
 | Александр Макаров | ![](/images/aleksandr-makarov.jpg) | Core developer, [Yii framework](https://www.yiiframework.com/) | [samdark](https://github.com/samdark) |
+| Ким Фом | ![](/images/kim-fom.jpg) | Student and Developer at VSU  | [kimfom01](https://github.com/kimfom01) |
