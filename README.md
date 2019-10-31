@@ -60,6 +60,7 @@ _Станислав - работает в Toptal Core Team, учит на mkdev.
 | Илья Казначеев | ![](/images/ilya-kaznacheev.jpg) | Организатор мероприятия, основатель SAP Community Voronezh, backend разработчик в [codersrank.io](http://codersrank.io) | [ilyakaznacheev](https://github.com/ilyakaznacheev) |
 | Станислав Мехоношин | ![](/images/stanislav-mekhonoshin.jpg) | Core Team Engineer, Scrum Master в [toptal.com](http://toptal.com) | [Mehonoshin](https://github.com/Mehonoshin) |
 | Александр Макаров | ![](/images/aleksandr-makarov.jpg) | Core developer, [Yii framework](https://www.yiiframework.com/) | [samdark](https://github.com/samdark) |
+| Анна Лысенко| ![](/images/anna-lysenko.jpg) | Начинающий JS-developer, +Python, +Siebel CRM Oracle | [Annsysadm](https://github.com/Annsysadm) |
 | Сувиланжи Силвамба | ![](/images/suwilanji-silwamba.jpeg) | Student and Programmer at VSU | [suwi-inc](https://github.com/suwi-inc) |
 | Лепехин Дмитрий | ![](/images/dmitry_lepekhin1.jpg) | Student of Voronezh State University, [Student VSU](http://www.vsu.ru/) | [DemitrixQ](https://github.com/DemitrixQ)|
 | Максим Попов | ![](/images/maxim-popov.jpg) | Php developer | [maxomato](https://github.com/maxomato) |
