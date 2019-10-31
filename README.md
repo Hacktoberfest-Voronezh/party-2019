@@ -68,3 +68,4 @@ _Станислав - работает в Toptal Core Team, учит на mkdev.
 | Евгений Кофман | ![](/images/evgeni-kofman.jpg) | РНР developer | [e-repo](https://github.com/e-repo) |
 | Ким Фом | ![](/images/kim-fom.jpg) | Student and Developer at VSU  | [kimfom01](https://github.com/kimfom01) |
 | Михаил Горталов | ![](/images/fKnBD1yBu5wcrop.jpg) | РНР developer | [toyrik](https://github.com/toyrik) |
+| Роман Гусев| ![](/images/roman-gusev.jpg) | Руководитель Service Desk АГО Воронеж, Python&JavaScript developer| [gusevroman](https://github.com/gusevroman) |
